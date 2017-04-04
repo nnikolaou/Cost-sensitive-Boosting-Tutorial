@@ -1,5 +1,5 @@
 # Cost-sensitive-Boosting-Tutorial
-The tutorial introduces the concepts of asymmetric (cost-sensitive and/or imbalanced class) learning, decision theory and boosting. It briefly describes the results of the paper:
+The tutorial 'CalibratedAdaMEC_ExtendedVersion.ipynb' introduces the concepts of asymmetric (cost-sensitive and/or imbalanced class) learning, decision theory and boosting. It briefly describes the results of the paper:
 
 Nikolaou, N., Edakunni, N. U., Kull, M., Flach, P. A., and Brown, G., 'Cost-sensitive boosting algorithms: Do we really need them?', Machine Learning, 104(2), pages 359-384, 2016.  [http://link.springer.com/article/10.1007/s10994-016-5572-x]
 
