@@ -7,6 +7,6 @@ It presents the Calibrated AdaMEC method (AdaBoost with calibrated probability e
 
 The code provided allows the user to reproduce the papers experiments, but also to extend them by choosing different calibration techniques, weak learners, ensemble sizes, AdaBoost variants, train\calibration splits, etc. We provide the tutorial along with standalone code and all the datasets used in the paper.
 
-For a straightforward, ready-to-use but less flexible implementation of Calibrated AdaMEC (following the same syntax of AdaBoostClassifier() in scikit-learn), please visit AAAA.
+For a straightforward, ready-to-use but less flexible implementation of Calibrated AdaMEC (following the same syntax of AdaBoostClassifier() in scikit-learn), please visit: http://www.cs.man.ac.uk/~gbrown/costsensitiveboosting/
 
 If you make use of the code found here, please cite the paper above.
